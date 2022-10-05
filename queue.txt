@@ -1,0 +1,19 @@
+A queue is defined as a linear data structure that is open at both ends and the operations are performed in First In First Out (FIFO) order or Last In Last Out (LILO).
+
+There is two basic operation of queue, first is Enqueue and Seconed is Dequeue.
+
+1) Enqueue : The Process of adding an element to a queue is called enqueue.
+
+2) Dequeue : The Process of removing an element from a queue is called dequeue.
+
+
+                                ( FIFO )
+
+                 ---------------------------------------
+    Enqueue ->      | 10 | 20 | 30 | 40 | 50 | 60 |      -> Dequeue
+                 ---------------------------------------
+
+                       ^                        ^
+                       |                        |
+                      Rear                    Front
+
