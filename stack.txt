@@ -1,0 +1,11 @@
+Stack is a linear data structure that follows an order for performing operations, which is LIFO(Last In First Out) or FILO(First In Last Out).
+
+The basic operations of the stack are PUSH and POP.
+
+Push : For adding an element(value) to the stack we perform push operation.
+
+Pop : For removing an element(value) from the stack we perform pop operation.
+
+peek of top : For access or fetch a top element of the stack we use peek of top optarection.
+
+is Empty : To check the stack is empty or not we use is Empty fuction.
